@@ -2,6 +2,5 @@
 
 - Machine Learning learner.
 - Interested in current affair.
-- Chief skills: 
-- Machine Learning: Computer Vision, NLP.
+- Chief skills: Computer Vision, NLP.
   
