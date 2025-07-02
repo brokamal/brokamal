@@ -1,5 +1,5 @@
 # About me 
 
 - Machine Learning learner.
-- Interested in current affair.
+- Looking for work
 
