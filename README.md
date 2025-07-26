@@ -1,7 +1,5 @@
-
-- 🔭 I’m currently working on **something**
-
-- 🌱 I’m currently learning **Machine Learning**
+# Currently Learning
+- Machine learning
 
 - 📫 How to reach me **kamal_nwf@protonmail.com**
 
