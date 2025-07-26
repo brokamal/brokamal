@@ -1,5 +1,5 @@
 # About 
-- Software Engineer fresh grad
+- Software Engineering fresh grad
 - 📫 How to reach me **kamal_nwf@protonmail.com**
 # Currently Learning
 - Machine Learning
