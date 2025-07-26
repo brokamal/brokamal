@@ -1,8 +1,8 @@
-# Currently Learning
-- Machine learning
-
+# About 
+- Software Engineer fresh grad
 - 📫 How to reach me **kamal_nwf@protonmail.com**
-
+# Currently Learning
+- Machine Learning
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brokamal&show_icons=true&locale=en" alt="brokamal" /></p>
