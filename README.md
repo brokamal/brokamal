@@ -1,6 +1,6 @@
 # About 
-- Informatics fresh grad
-- 📫 How to reach me **kamal_nwf@protonmail.com**
+- BS in Informatics
+- 📫 How to reach me : **kamal_nwf@protonmail.com**
 # Currently Learning
 - React Native
 - Machine Learning
