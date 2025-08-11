@@ -1,7 +1,12 @@
 # About 
 - BS in Informatics
 - 📫 How to reach me : **kamal_nwf@protonmail.com**
+
+# Work Experience
+- Mobile developer at DPTSI
+
 # Currently Learning
+- React
 - React Native
 - Machine Learning
 
