@@ -1,6 +1,6 @@
 # About 
 - BS in Informatics
-- My website : https://kamalinfo.vercel.app/
+- My website : [https://kamalinfo.vercel.app/](kamalinfo)
 - 📫 How to reach me : **kamal_nwf@protonmail.com**
 
 # Work Experience
