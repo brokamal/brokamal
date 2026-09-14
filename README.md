@@ -1,6 +1,5 @@
 # Hi
 - Call me Kamal
-- I do React and React Native Development
 - I am interested in many interests
 - I am passionate in passion
 - Fun fact: I have a Bachelor Degree in Informatics 
